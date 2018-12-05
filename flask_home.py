@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from trial_3 import delay_tweets
+from all_lines_and_delays import delay_tweets
 app = Flask(__name__)
 
 
